@@ -1,0 +1,10 @@
+C:\Users\Eduard\source\repos\MouseControl\MouseControl\bin\Debug\MouseControl.exe.config
+C:\Users\Eduard\source\repos\MouseControl\MouseControl\bin\Debug\MouseControl.exe
+C:\Users\Eduard\source\repos\MouseControl\MouseControl\bin\Debug\MouseControl.pdb
+C:\Users\Eduard\source\repos\MouseControl\MouseControl\obj\Debug\MouseControl.csprojAssemblyReference.cache
+C:\Users\Eduard\source\repos\MouseControl\MouseControl\obj\Debug\MouseControl.Form1.resources
+C:\Users\Eduard\source\repos\MouseControl\MouseControl\obj\Debug\MouseControl.Properties.Resources.resources
+C:\Users\Eduard\source\repos\MouseControl\MouseControl\obj\Debug\MouseControl.csproj.GenerateResource.cache
+C:\Users\Eduard\source\repos\MouseControl\MouseControl\obj\Debug\MouseControl.csproj.CoreCompileInputs.cache
+C:\Users\Eduard\source\repos\MouseControl\MouseControl\obj\Debug\MouseControl.exe
+C:\Users\Eduard\source\repos\MouseControl\MouseControl\obj\Debug\MouseControl.pdb
